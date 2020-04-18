@@ -18,4 +18,4 @@ Or install with a symlink, making changes come into action immediatelly
     
 #### Example
     
-    ![Example](Example.png)
+![Example](Example.png)
